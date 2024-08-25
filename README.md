@@ -14,13 +14,14 @@ My goal is to contribute to innovative AI-driven solutions that make a real impa
 - **Programming Languages:** Python, C++
 - **AI & Machine Learning:** TensorFlow, PyTorch, scikit-learn
 - **Data Processing:** Pandas, NumPy
-- **Web Development:** Django, Flask
+- **Web Development:** Django, FastAPI
 - **Tools & Platforms:** Git, Docker, GitHub, Jupyter
+- **Database**: PostgreSQL, SQL Server, SQLite, MongoDB, Elastic
 
 ## 📫 How to Reach Me
 
 - **Email:** [Mkarbasioun@gmail.com](mailto:Mkarbasioun@gmail.com)
-- **LinkedIn:** [Matin Karbasioun](https://www.linkedin.com/in/matin-karbasioun)
+- **LinkedIn:** [Matin Karbasioun](https://www.linkedin.com/in/mkarbasioun)
 - **GitHub:** [github.com/MatinKarbasioun](https://github.com/MatinKarbasioun)
 
 ## 🚀 Let's Collaborate!
